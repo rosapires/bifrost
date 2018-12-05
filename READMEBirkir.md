@@ -6,5 +6,5 @@
 3. make some reverse engineering and construct the scss file to compile the resulting css file 
 ## HINTS
 - only two colours and two mesures are defined...
-- Use variables, nesting, parenting, partials and operations 
+- Use variasdjsndkjnbles, nesting, parenting, partials and operations 
 - Place .scss files in a seperate folder
