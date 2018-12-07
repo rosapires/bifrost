@@ -17,3 +17,25 @@
         </div>
     </section>
 </div>
+
+<main>
+    <h2 class="name">Hi mom!</h2>
+
+        <template class="categoryTemplate">
+				
+                    <h1 class="name">Name:</h1>
+                   
+        </template>
+
+
+        </main>
+
+        <div class="skillsTemplate">
+                
+                <h3 class="skill">hi mom</h3>
+               
+    
+            
+    
+            </div>
+<script src="script.js"></script>
