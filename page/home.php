@@ -18,24 +18,26 @@
     </section>
 </div>
 
-<main>
-    <h2 class="name">Hi mom!</h2>
+<body>
+    <main>
+
+        </main>
+        <h2 class="name">Hi mom!</h2>
 
         <template class="categoryTemplate">
-				
-                    <h1 class="name">Name:</h1>
-                   
+            <article>
+                <header>
+                    <h1 class="name"> {Category} </h1>
+                </header>
+            </article>
         </template>
 
 
-        </main>
 
-        <div class="skillsTemplate">
-                
-                <h3 class="skill">hi mom</h3>
-               
-    
-            
-    
-            </div>
+  
+
+
+
+</body>
+
 <script src="script.js"></script>
